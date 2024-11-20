@@ -1,0 +1,18 @@
+.img1{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.mySwiper{
+    border-radius: 10px;
+    width: 70%;
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid blue;
+    background-color: blue;
+}
+body{
+    padding: 20px 0;
+}
